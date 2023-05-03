@@ -1,0 +1,21 @@
+.btn-red {
+	background-color: darkred;
+    border: 2px darkred;
+    color: ghostwhite;
+    padding: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+    transition: 1s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+    margin: 10px auto;
+    text-align: center;
+}
+
+.btn-red:hover  {
+    background-color: ghostwhite;
+    color: darkred;
+    transition: 1s;
+}

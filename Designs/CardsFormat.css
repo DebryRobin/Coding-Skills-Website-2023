@@ -1,0 +1,19 @@
+.card {
+	background-color: whitesmoke;
+	text-align: center;
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 2px 2px 1px 1px black;
+}
+
+.card img {
+	width: 60%;
+	height: 200px;
+	object-fit: cover;
+}
+
+.cards {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 20px;
+}

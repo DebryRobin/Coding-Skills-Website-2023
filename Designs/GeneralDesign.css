@@ -1,0 +1,22 @@
+@import url("BannerGrandPalais.css");
+@import url("BlueButton.css");
+@import url("WhiteButton.css");
+@import url("RedButton.css");
+@import url("CyanButton.css");
+@import url("PinkButton.css");
+@import url("PurpleButton.css");
+@import url("CardsFormat.css");
+@import url("FooterFormat.css");
+
+body {
+	margin: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+.container {
+	width: 90%;
+	margin: 20px auto;
+}

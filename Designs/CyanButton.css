@@ -1,0 +1,19 @@
+.btn-cyan {
+	background-color: darkcyan;
+    border: 2px darkcyan;
+    color: ghostwhite;
+    padding: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+    transition: 1s;
+    display: block;
+    width: 25%;
+    margin: 10px auto;
+    text-align: center;
+}
+
+.btn-cyan:hover  {
+    background-color: ghostwhite;
+    color: darkcyan;
+    transition: 1s;
+}
